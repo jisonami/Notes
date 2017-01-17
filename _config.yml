@@ -8,7 +8,7 @@
 title: jisonami
 brief-intro: A Java Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jisonami.org" # the base hostname & protocol for your site
+url: "https://notes.jisonami.org" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 # other links
 twitter_username:
